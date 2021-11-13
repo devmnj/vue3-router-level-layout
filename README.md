@@ -1,4 +1,6 @@
-# vue3-app
+# vue3-router-level-layout
+## About 
+This is a Vue3 Router level layout implementation example. This will allow us specify layout for the page view component in the router configuration.
 
 ## Project setup
 ```
@@ -20,5 +22,5 @@ yarn build
 yarn lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### For more examples and guides  
+Visit [JavScriptSuperUser](https://javascriptsu.wordpress.com)
